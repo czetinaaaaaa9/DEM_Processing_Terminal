@@ -1,0 +1,5 @@
+*.tif
+*.aux.xml
+*.vrt
+*.img
+outputs/
