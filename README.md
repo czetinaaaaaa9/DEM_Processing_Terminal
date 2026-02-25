@@ -2,8 +2,7 @@
 
 **An interactive command-line tool to explore and process Digital Elevation Models (DEMs) using GDAL.**
 
-This script lets you load any GeoTIFF DEM, view its metadata and statistics, and instantly generate and visualize 7 common terrain products — all with a simple menu-driven interface.
-
+This script lets you load any GeoTIFF DEM, view its metadata and statistics, and instantly generate and visualize 7 common terrain products.
 ---
 
 ## Features
@@ -75,3 +74,4 @@ Close the plot window to exit the script.
 - Support batch processing of multiple DEMs
 - Option to save the plot as PNG/PDF
 Better error handling for invalid DEMs or missing GDAL drivers
+
