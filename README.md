@@ -73,5 +73,6 @@ Close the plot window to exit the script.
 - Add option to reproject
 - Support batch processing of multiple DEMs
 - Option to save the plot as PNG/PDF
-Better error handling for invalid DEMs or missing GDAL drivers
+- Better error handling for invalid DEMs or missing GDAL drivers
+
 
